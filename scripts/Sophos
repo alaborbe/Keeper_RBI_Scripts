@@ -1,0 +1,3 @@
+- page: https://172.16.16.16:4444
+  username-field: "input[id='username']"
+  password-field: "input[id='password']"
