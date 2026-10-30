@@ -1,0 +1,11 @@
+[
+    {
+        "page": "login.microsoftonline.com",
+        "username-field": "input[autocomplete='username webauthn']"
+    },
+    {
+        "page": "login.microsoftonline.com",
+        "password-field": "input[autocomplete='current-password']",
+        "submit": "input[id='idSIButton9']"
+    }
+]
