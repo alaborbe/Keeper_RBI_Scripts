@@ -1,0 +1,14 @@
+[
+  {
+    "page": "login.sophos.com",
+    "username-field": "#username",
+    "delay": 1000,
+    "submit": "#continue"
+  },
+  {
+    "page": "login.sophos.com",
+    "password-field": "#password",
+    "delay": 1000,
+    "submit": "#next"
+  }
+]
