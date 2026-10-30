@@ -1,0 +1,17 @@
+https://azweu1-99990-02.cloud.darktrace.com
+
+[
+  {
+    "page": "*.cloud.darktrace.com",
+    "username-field": "#username",
+    "password-field": "#password",
+    "submit": "[id='login-btn']",
+    "delay": 1000
+  },
+  {
+    "page": "*.cloud.darktrace.com",
+    "username-field": "#code",
+    "submit": "[id='login-btn']",
+    "delay": 1000
+  }
+]
