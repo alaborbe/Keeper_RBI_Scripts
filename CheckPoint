@@ -1,0 +1,9 @@
+[
+  {
+    "page": "172.16.108.252",
+    "username-field": "#txtUserName",
+    "password-field": "#txtPwd",
+    "submit": "#ext-gen29",
+    "delay": 3000
+  }
+]
