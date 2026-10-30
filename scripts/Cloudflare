@@ -1,0 +1,7 @@
+- page: "dash.cloudflare.com/login"
+  username-field: "input[id='email']"
+  password-field: "input[id='password']"
+  cannot-submit: "div[data-testid=challenge-widget-container]"
+  delay: 3000
+  hide: "input[type='password']"
+  submit: "input[name='login-submit-button']"
