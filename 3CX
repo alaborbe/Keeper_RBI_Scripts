@@ -1,9 +1,0 @@
-[
-  {
-    "page": "login.3cx.com/Account/Login",
-    "username-field": "#Email",
-    "password-field": "#Password",
-    "submit": "#login-button",
-    "delay": 3000
-  }
-]
