@@ -1,0 +1,9 @@
+[
+  {
+    "page": "https://rsmmalta.freshworks.com",
+    "username-field": "#username",
+    "password-field": "#password",
+    "submit": "[data-testid='login-button']",
+    "delay": 2000
+  }
+]
