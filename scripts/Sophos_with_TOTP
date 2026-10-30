@@ -1,0 +1,29 @@
+portal starts with
+https://portal.sophos.com
+
+or with 
+https://central.sophos.com
+
+and redirects to
+https://login.sophos.com
+
+[
+  {
+    "page": "login.sophos.com",
+    "username-field": "input[id='username']",
+    "delay": 1000,
+    "submit": "button[id='continue']"
+  },
+  {
+    "page": "login.sophos.com",
+    "password-field": "input[id='password']",
+    "delay": 1000,
+    "submit": "button[id='next']"
+  },
+  {
+    "page": "login.sophos.com",
+    "totp-code-field": "input[id='verificationCode']",
+    "delay": 1000,
+    "submit": "button[id='button_continue']"
+  },
+]
