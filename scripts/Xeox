@@ -1,0 +1,9 @@
+[
+  {
+    "page": "https://auth.xeox.com",
+    "username-field": "#username",
+    "password-field": "#password",
+    "submit": "#kc-login",
+    "delay": 3000
+  }
+]
